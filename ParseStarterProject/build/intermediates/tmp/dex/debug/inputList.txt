@@ -1,0 +1,4 @@
+C:\Users\jopepato\Downloads\Parse-Starter-Project-1.8.2 (1)\ParseStarterProject\build\intermediates\classes\debug
+C:\Users\jopepato\Downloads\Parse-Starter-Project-1.8.2 (1)\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-22ddec4a2419a52d9f8af525e086f5c9035c9a99.jar
+C:\Users\jopepato\Downloads\Parse-Starter-Project-1.8.2 (1)\ParseStarterProject\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.8.2-276015731483daf79807b3bf111cfd119c755f46.jar
+C:\Users\jopepato\Downloads\Parse-Starter-Project-1.8.2 (1)\ParseStarterProject\build\intermediates\pre-dexed\debug\Parse-1.8.2-0865a37cda5f3c8a98f248a584e1e44e3d9e73cd.jar
